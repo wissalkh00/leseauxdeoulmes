@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: Huawei Code Signature Platform
+
+Name: dist/jssdk.d.ts
+SHA256-Digest: dde1eefc4270bb3634a997cb80659a951c8eea58b8c482114d857e2708e39368
+
+Name: dist/js-sdk.esm.js
+SHA256-Digest: 49f64455960f76cd5c7540177afeadd9c23bf1464d83841e6a243854b28abea5
+
+Name: dist/js-sdk.esm.js.map
+SHA256-Digest: 1deb492a25ba28940f0d355146c7cfa0bcf79f13b2683feab4ac3d38b6f0787e
+
+Name: dist/js-sdk.esm.min.js
+SHA256-Digest: de994699f9dc51681dc93df19fbfeaac7bfd752b3200dbb780e26dfc73b1a3ce
+
+Name: dist/js-sdk.esm.min.js.map
+SHA256-Digest: 0d73b4ca6eb5592877571e195e2042486f9c05f75c2dfb431cf793d74214015a
+
+Name: dist/js-sdk.js
+SHA256-Digest: e0123e59460be7d8b5f1df3b9525dcf7d9fd4a17cf387b6d8335d8c46ea86be1
+
+Name: dist/js-sdk.js.map
+SHA256-Digest: 0d43c3c51c12394ab65ca3828c632f08659fcdf9d1f4c99809d2a2b1b1134aa0
+
+Name: dist/js-sdk.min.js
+SHA256-Digest: a8fe3267fbb3e8505bcfebfacaf763af36b947ce2280d29771601bde0d43a9cf
+
