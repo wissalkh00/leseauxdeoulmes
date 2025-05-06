@@ -60,7 +60,7 @@ const Cart = ({ cart, setCart }) => {
                   <p className="text-gray-600">Size: {item.size}</p>
                   <p className="text-gray-600">Extras: {item.extras}</p>
                   <p className="text-[#2A8B57] font-bold mt-2">
-                    Price: ${item.totalPrice.toFixed(2)}
+                    Price: {item.totalPrice.toFixed(2)} DH
                   </p>
                 </div>
               </div>
@@ -75,7 +75,7 @@ const Cart = ({ cart, setCart }) => {
 
           <div className="mt-6 sm:mt-8 flex flex-col sm:flex-row justify-between items-center">
             <h2 className="text-xl sm:text-2xl font-bold text-[#005480]">
-              Total Price: ${getTotalPrice()}
+              Total Price: {getTotalPrice()} DH
             </h2>
             <button
               onClick={() => setIsModalOpen(true)}
