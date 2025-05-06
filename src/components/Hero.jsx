@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
         <img
           className='w-full max-h-[500px] object-cover rounded-xl'
-          src='https://leseauxmineralesdoulmes-store.ma/uploads/products/sidi-ali-1-5l.jpg'
+          src='https://admin-store.leseauxmineralesdoulmes-store.ma/api/image/2216'
           alt='Sidi Ali Hero'
         />
       </div>
