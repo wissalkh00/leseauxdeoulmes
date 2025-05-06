@@ -15,7 +15,7 @@ const HeadlineCards = () => {
         </div>
         <img
           className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-          src='https://leseauxmineralesdoulmes-store.ma/uploads/products/sidi-ali-1-5l.jpg'
+          src='https://admin-store.leseauxmineralesdoulmes-store.ma/api/image/2339'
           alt='Sidi Ali 1.5L'
         />
       </div>
@@ -31,7 +31,7 @@ const HeadlineCards = () => {
         </div>
         <img
           className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-          src='https://leseauxmineralesdoulmes-store.ma/uploads/products/oulmes-1l.jpg'
+          src='https://admin-store.leseauxmineralesdoulmes-store.ma/api/image/2175'
           alt='Oulmès 1L'
         />
       </div>
@@ -47,7 +47,7 @@ const HeadlineCards = () => {
         </div>
         <img
           className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
-          src='https://leseauxmineralesdoulmes-store.ma/uploads/products/vitalya-alcaline-50cl.jpg'
+          src='https://admin-store.leseauxmineralesdoulmes-store.ma/api/image/2340'
           alt='Vitalya Alkaline 50cl'
         />
       </div>
